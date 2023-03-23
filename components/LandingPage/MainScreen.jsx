@@ -127,14 +127,14 @@ function MainScreen() {
           style={{ backgroundColor: "#00337C" }}
         >
           <div className="ml-2">
-            <div class="flex space-x-2 h-[80%] m-auto mt-1">
-              <div class="relative w-10 h-10">
+            <div className="flex space-x-2 h-[80%] m-auto mt-1">
+              <div className="relative w-10 h-10">
                 <img
-                  class="rounded-full border border-gray-100 shadow-sm"
+                  className="rounded-full border border-gray-100 shadow-sm"
                   src="https://res.cloudinary.com/dtks0l86r/image/upload/v1674999667/website-static-assets/Project%20Website/lord_i2qjyw.webp"
                   alt="lord-krishna"
                 />
-                <div class="absolute top-0 right-0 h-3 w-3 my-1 border-2 border-white rounded-full bg-green-400 z-2"></div>
+                <div className="absolute top-0 right-0 h-3 w-3 my-1 border-2 border-white rounded-full bg-green-400 z-2"></div>
               </div>
             </div>
           </div>
