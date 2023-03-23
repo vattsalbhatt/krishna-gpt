@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <Head>
         <title>Ask to Lord Krishna</title>
-        <meta name="description" content="Krishna with powered by chatGPT" />
+        <meta name="description" content="Ask anything to Lord Krishna by Vattsal Bhatt" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
